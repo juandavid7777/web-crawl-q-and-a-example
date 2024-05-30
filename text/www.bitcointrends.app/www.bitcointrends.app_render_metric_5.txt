@@ -1,0 +1,269 @@
+
+
+
+
+
+
+      
+          Bitcoin Trends
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Indicators
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+Login
+
+
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+Indicator Summary
+
+
+
+
+Machine Learning
+
+
+
+
+Neural Network
+
+
+
+
+Random Forest
+
+
+
+
+Decision Tree
+
+
+
+
+Support Vector Machine
+
+
+
+
+Naive Bayes
+
+
+
+
+Confluence risk
+
+
+
+
+Logistic Regression
+
+
+
+
+K-NN
+
+
+
+
+
+
+Technical Indicators
+
+
+
+
+Time channel
+
+
+
+
+MA log rat
+
+
+
+
+
+
+On-Chain Indicators
+
+
+
+
+NUPL
+
+
+
+
+MVRV-Z
+
+
+
+
+Puell Multiple
+
+
+
+
+Thermocap rat.
+
+
+
+
+Supply in profit
+
+
+
+
+
+
+Sentiment Indicators
+
+
+
+
+Fear and Greed
+
+
+
+
+Fear and Greed MA
+
+
+
+
+
+
+ML Multi Vote
+
+
+
+
+
+
+             You are watching this application on mobile, switch to browser for better experience
+          
+
+
+
+
+            Puell Multiple
+          
+
+             This metric looks at the supply side of Bitcoin’s economy, specifically bitcoin miners and their revenue. It explores market cycles from a mining revenue perspective.
+          
+
+
+
+
+
+
+
+ 
+   
+
+
+
+
+                                Colored 
+                            
+
+
+ 
+   
+
+
+ 
+   
+
+
+
+
+
+
+                            Grouped
+                        
+
+
+ 
+   
+
+
+ 
+   
+
+
+
+
+                Footer of indicators text
+            
+
+
+
+
+
+
+
+
+
+
+
+

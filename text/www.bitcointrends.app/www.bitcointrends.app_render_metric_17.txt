@@ -1,0 +1,271 @@
+
+
+
+
+
+
+      
+          Bitcoin Trends
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Indicators
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+Login
+
+
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+Indicator Summary
+
+
+
+
+Machine Learning
+
+
+
+
+Neural Network
+
+
+
+
+Random Forest
+
+
+
+
+Decision Tree
+
+
+
+
+Support Vector Machine
+
+
+
+
+Naive Bayes
+
+
+
+
+Confluence risk
+
+
+
+
+Logistic Regression
+
+
+
+
+K-NN
+
+
+
+
+
+
+Technical Indicators
+
+
+
+
+Time channel
+
+
+
+
+MA log rat
+
+
+
+
+
+
+On-Chain Indicators
+
+
+
+
+NUPL
+
+
+
+
+MVRV-Z
+
+
+
+
+Puell Multiple
+
+
+
+
+Thermocap rat.
+
+
+
+
+Supply in profit
+
+
+
+
+
+
+Sentiment Indicators
+
+
+
+
+Fear and Greed
+
+
+
+
+Fear and Greed MA
+
+
+
+
+
+
+ML Multi Vote
+
+
+
+
+
+
+             You are watching this application on mobile, switch to browser for better experience
+          
+
+
+
+
+            Confluence risk
+          
+
+             Bitcoin cycle selected metrics exhibit an oscillation pattern that closely aligns with the 4 year cycle. High values are observed near the peaks, while low values occur close to the bottom of the cycle. However, assessing the overall risk based on a single metric is challenging. To address this, we employ a linear combination that averages all the metrics, creating a single value known as the “confluence risk.”
+
+To compute the confluence risk, we normalize each metric and then calculate the mean value across all the metrics, producing a composite risk indicator. Notably, bottoms tend to have confluence risk values below 0.25, while peaks typically exceed 0.75.
+          
+
+
+
+
+
+
+
+ 
+   
+
+
+
+
+                                Colored 
+                            
+
+
+ 
+   
+
+
+ 
+   
+
+
+
+
+
+
+                            Grouped
+                        
+
+
+ 
+   
+
+
+ 
+   
+
+
+
+
+                Footer of indicators text
+            
+
+
+
+
+
+
+
+
+
+
+
+

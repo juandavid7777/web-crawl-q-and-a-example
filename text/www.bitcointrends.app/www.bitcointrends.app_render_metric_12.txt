@@ -1,0 +1,249 @@
+
+
+
+
+
+
+      
+          Bitcoin Trends
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Indicators
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+Login
+
+
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+Indicator Summary
+
+
+
+
+Machine Learning
+
+
+
+
+Neural Network
+
+
+
+
+Random Forest
+
+
+
+
+Decision Tree
+
+
+
+
+Support Vector Machine
+
+
+
+
+Naive Bayes
+
+
+
+
+Confluence risk
+
+
+
+
+Logistic Regression
+
+
+
+
+K-NN
+
+
+
+
+
+
+Technical Indicators
+
+
+
+
+Time channel
+
+
+
+
+MA log rat
+
+
+
+
+
+
+On-Chain Indicators
+
+
+
+
+NUPL
+
+
+
+
+MVRV-Z
+
+
+
+
+Puell Multiple
+
+
+
+
+Thermocap rat.
+
+
+
+
+Supply in profit
+
+
+
+
+
+
+Sentiment Indicators
+
+
+
+
+Fear and Greed
+
+
+
+
+Fear and Greed MA
+
+
+
+
+
+
+ML Multi Vote
+
+
+
+
+
+
+             You are watching this application on mobile, switch to browser for better experience
+          
+
+
+
+
+            Decision Tree
+          
+
+             A decision tree is a flowchart-like tree structure where each internal node denotes the feature, branches denote the rules and the leaf nodes denote the result of the algorithm. It is a versatile supervised machine-learning algorithm, which is used for both classification and regression problems. It is one of the very powerful algorithms. And it is also used in Random Forest to train on different subsets of training data, which makes random forest one of the most powerful algorithms in machine learning [https://www.geeksforgeeks.org/decision-tree/]
+          
+
+
+
+
+
+
+
+
+
+                            Colored 
+                        
+
+
+ 
+   
+
+
+ 
+   
+
+
+
+
+                Footer of indicators text
+            
+
+
+
+
+
+
+
+
+
+
+
+

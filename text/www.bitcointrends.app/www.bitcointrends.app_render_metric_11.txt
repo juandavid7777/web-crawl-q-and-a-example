@@ -1,0 +1,249 @@
+
+
+
+
+
+
+      
+          Bitcoin Trends
+      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Indicators
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+Login
+
+
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+Indicator Summary
+
+
+
+
+Machine Learning
+
+
+
+
+Neural Network
+
+
+
+
+Random Forest
+
+
+
+
+Decision Tree
+
+
+
+
+Support Vector Machine
+
+
+
+
+Naive Bayes
+
+
+
+
+Confluence risk
+
+
+
+
+Logistic Regression
+
+
+
+
+K-NN
+
+
+
+
+
+
+Technical Indicators
+
+
+
+
+Time channel
+
+
+
+
+MA log rat
+
+
+
+
+
+
+On-Chain Indicators
+
+
+
+
+NUPL
+
+
+
+
+MVRV-Z
+
+
+
+
+Puell Multiple
+
+
+
+
+Thermocap rat.
+
+
+
+
+Supply in profit
+
+
+
+
+
+
+Sentiment Indicators
+
+
+
+
+Fear and Greed
+
+
+
+
+Fear and Greed MA
+
+
+
+
+
+
+ML Multi Vote
+
+
+
+
+
+
+             You are watching this application on mobile, switch to browser for better experience
+          
+
+
+
+
+            Random Forest
+          
+
+             Random forest, like its name implies, consists of a large number of individual decision trees that operate as an ensemble. Each individual tree in the random forest spits out a class prediction and the class with the most votes becomes our model’s prediction [https://towardsdatascience.com/understanding-random-forest-58381e0602d2].
+          
+
+
+
+
+
+
+
+
+
+                            Colored 
+                        
+
+
+ 
+   
+
+
+ 
+   
+
+
+
+
+                Footer of indicators text
+            
+
+
+
+
+
+
+
+
+
+
+
+
